@@ -1,0 +1,32 @@
+aid: share
+name: SHARE
+description: "A free, open, dataset about research and scholarly activities"
+url: https://share.osf.io/api/v2/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Science & Math"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Science And Math
+  - Public APIs
+apis:
+  - name: SHARE
+    description: "A free, open, dataset about research and scholarly activities"
+    humanURL: https://share.osf.io/api/v2/
+    baseURL: https://share.osf.io/api/v2/
+    tags:
+      - Science And Math
+    properties:
+      - type: Documentation
+        url: https://share.osf.io/api/v2/
+common:
+  - type: Website
+    url: https://share.osf.io/api/v2/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
