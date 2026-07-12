@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://share.osf.io/api/v2/
 common:
+  - type: DomainSecurity
+    url: security/share-domain-security.yml
   - type: Website
     url: https://share.osf.io/api/v2/
   - type: PublicAPIsListing
