@@ -1,4 +1,16 @@
 aid: share
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/share.png
 name: SHARE
 description: "A free, open, dataset about research and scholarly activities"
 url: https://share.osf.io/api/v2/
