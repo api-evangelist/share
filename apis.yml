@@ -33,13 +33,13 @@ x-category: "Science & Math"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Science And Math
   - Public APIs
+  - Science
+  - Research
 apis:
   - name: SHARE
     description: "A free, open, dataset about research and scholarly activities"
     humanURL: https://share.osf.io/api/v2/
-    baseURL: https://share.osf.io/api/v2/
     tags:
       - Science And Math
     properties:
@@ -55,3 +55,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Science And Math
